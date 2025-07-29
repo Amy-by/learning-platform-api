@@ -67,7 +67,7 @@ MAX_FILE_SIZE=10485760  # 10MB
 ## 安装与运行
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-repo/learning-platform-api.git
+git clone https://github.com/Amy-by/learning-platform-api.git
 cd learning-platform-api
 ```
 
